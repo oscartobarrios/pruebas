@@ -1,0 +1,15 @@
+{
+    "LOGINPAGE": "https://ghost-uniandes.herokuapp.com/ghost/",
+    "USERNAME1": "d.castrog2@uniandes.edu.co",
+    "PASSWORD1": "PruebasA123",
+    "LISTPOSTPAGE": "https://ghost-uniandes.herokuapp.com/ghost/#/posts",
+    "NEWPOSTPAGE": "https://ghost-uniandes.herokuapp.com/ghost/#/editor/post",
+
+
+    "USERNAME": "d.castrog2@uniandes.edu.co",
+    "PASSWORD": "PruebasA123",
+
+    "USUARIO": "d.castrog2@uniandes.edu.co",
+    "CLAVE": "PruebasA123"
+
+}
